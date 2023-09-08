@@ -1,0 +1,8 @@
+google-api-python-client
+datetime
+PIL
+streamlit
+pandas
+time
+pymongo
+psycopg2
